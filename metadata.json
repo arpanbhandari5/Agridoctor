@@ -1,0 +1,8 @@
+{
+  "name": "Agridoctor: AI-Nexus",
+  "description": "Winning entry for Snow Fest 2026. A Climate-Smart Agricultural Intelligence platform bridging the gap between smallholder farmers and world-class AI diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
